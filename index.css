@@ -1,0 +1,112 @@
+/* CSS file --> indexhtml */
+h1{
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 32px;
+    border: 8px solid;
+    padding: 10px; 
+    width: 230px;
+    resize: both;
+    overflow: auto;
+    background-color:#EB92BE;
+    border-radius: 50px;
+    margin:auto;
+}
+h2{
+    text-align: center; 
+    font-family: 'Fugaz One', cursive;
+    font-weight:normal;
+    border: 8px solid;
+    padding: 8px; 
+    width: 345px;
+    resize: both;
+    overflow: auto;
+    background-color:#FFEF78;
+    border-radius: 50px;
+    margin:auto;
+}
+h3{
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+     font-weight:normal;
+}
+h4{
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    font-weight:normal;
+    border: 8px solid;
+    padding: 8px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    background-color:#B1FFFD;
+    border-radius: 50px;
+    margin:auto;
+    letter-spacing: 3px;
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/a8/2b/82/a82b82f65568363e41a74dd36f5a296b.jpg");
+}
+
+table{
+    width:100%; 
+    text-align: center;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+/* (2) Class Selector */
+.p-Aboutme{
+    font-weight:normal; 
+    text-align: justify;
+    font-family: 'Fugaz One', cursive;
+
+}
+.hr {
+    border-width: 10px;
+  }
+.p-website{
+    font-family: 'Fugaz One', cursive;
+}
+.p-website a:hover{
+    color: rgb(238, 179, 15);
+}
+.p-Name{
+    font-family: 'Fugaz One', cursive;
+}
+.p-ans{
+    font-family: 'Fugaz One', cursive;
+}
+.p-Footer{
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    font-family: 'Fugaz One', cursive;
+    border: 8px solid;
+    padding: 10px; 
+    width: 300px;
+    background-color:#EB92BE;
+    border-radius: 25px;
+    margin:auto;
+}
+/* (3) Id Selector */
+#th-Details{
+    text-align: left;
+}
+
+/* div */   
+.table-aboutme{
+    background-color:#fffad5;
+    border: 6px solid;
+}
+.table-manu td:hover{
+    background-color: rgb(198, 138, 255);
+}
+.table-manu{
+    background-color:#CAB8FF;
+}
+.table-manu a:hover{
+    color: white;
+}

@@ -1,0 +1,97 @@
+.table-menu{
+    width:100%; 
+    text-align: center;
+    background-color:#CAB8FF;
+    font-family: 'Fugaz One', cursive;
+}
+.table-menu a:hover{
+    color: white;
+}
+.table-menu td:hover{
+    background-color: rgb(198, 138, 255);
+}
+body{
+    background-image: url("https://i.pinimg.com/564x/b2/c6/07/b2c6074c6c5a8d3e705c0f308132bb5a.jpg");
+    
+}
+.hr{
+    border-width: 10px;
+}
+h1{
+    text-align: center;
+    text-shadow: 2px 2px white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 32px;
+    border: 8px solid;
+    padding: 10px; 
+    width: 230px;
+    resize: both;
+    overflow: auto;
+    background-color:#EB92BE;
+    border-radius: 50px;
+    margin:auto;
+}
+h4{
+    text-align: center; 
+    font-family: 'Fugaz One', cursive;
+    font-weight:normal;
+    border: 8px solid;
+    padding: 8px; 
+    width: 650px;
+    resize: both;
+    overflow: auto;
+    background-color:#FFEF78;
+    border-radius: 50px;
+    margin:auto;
+}
+h5{
+    text-align: center; 
+    font-family: 'Fugaz One', cursive;
+    font-weight:normal;
+    border: 8px solid;
+    padding: 8px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    background-color:#C1FFD7;
+    border-radius: 50px;
+    margin:auto;
+}
+.table-content{
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: #FEFDCA;
+    font-family: 'Fugaz One', cursive;
+    border: 6px solid;
+}
+.ul-circle{
+    list-style-type:circle;
+    background-color: #FFCFDF;
+}
+h2{
+    text-align: center; 
+    font-family: 'Fugaz One', cursive;
+    font-weight:normal;
+    border: 8px solid;
+    padding: 8px; 
+    width: 200px;
+    resize: both;
+    overflow: auto;
+    background-color:#B1FFFD;
+    border-radius: 50px;
+    margin:auto;
+}
+p{
+    text-align: center;
+}
+.im{
+    text-align: center; 
+    border: 8px solid;
+    padding: 20px; 
+    width: auto;
+    resize: both;
+    overflow: auto;
+    background-color:#B1FFFD;
+    border-radius: 50px;
+    margin:auto;
+}
